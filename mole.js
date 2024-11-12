@@ -17,7 +17,7 @@ function setGame() {
     tile.addEventListener("click", selectTile);
     document.getElementById("board").appendChild(tile);
   }
-  setInterval(setMole, 1000); // 1000 miliseconds = 1 second, every 1 second call setMole
+  setInterval(setMole, 2000); // 2000 miliseconds = 1 second, every 1 second call setMole
   setInterval(setPlant, 2000); // 2000 miliseconds = 2 seconds, every 2 second call setPlant
 }
 
