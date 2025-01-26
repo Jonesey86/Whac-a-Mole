@@ -72,7 +72,7 @@ function selectTile() {
     document.getElementById("score").innerText = score.toString(); //update score html
   } else if (this == currPlantTile) {
     document.getElementById("score").innerText =
-      "GAME OVER: " + score.toString(); //update score html
+      "GAME OVER! Refresh to start again ;-) : " + score.toString(); //update score html
     gameOver = true;
   }
 }
