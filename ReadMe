@@ -28,8 +28,11 @@ Language C# Java Script, HTML, CSS
 How to run the game 
 
 1. Clone repository : https://github.com/Jonesey86/Whac-a-Mole
+
 2. Open Open the solution file (`Whack-a-Mole.sln`) in Visual Studio Code.
+
 3. Rebuild solution.
+
 4. Run the game.
 
 
