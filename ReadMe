@@ -1,11 +1,10 @@
-Video Game Whack A Mole
+Video Game Whack A Mole 🎮
 
 *A simple Whack A Mole game built using Windows Forms in C#. 
 
 *This project shows basic game development principles, 
 
 *Including UI interaction, event handling, and game logic.
-
 
 
 Features
@@ -19,13 +18,13 @@ Features
 *Win detection Detects when a player wins or loses the game.
 
 
-Tech used
+Tech used 📚
 
 Language C# Java Script, HTML, CSS
 
 
 
-How to run the game 
+How to run the game 🎮
 
 1. Clone repository : https://github.com/Jonesey86/Whac-a-Mole
 
