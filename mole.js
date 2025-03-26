@@ -69,10 +69,10 @@ function selectTile() {
   }
   if (this == currMoleTile) {
     score += 10;
-    document.getElementById("score").innerText = score.toString(); //update score html
+    document.getElementById("score").innerText = score.toString(); //update the score html
   } else if (this == currPlantTile) {
     document.getElementById("score").innerText =
-      "GAME OVER! Refresh to start again! : " + score.toString(); //update score html
+      "GAME OVER! Refresh to start again! : " + score.toString(); //update the score html
     gameOver = true;
   }
 }
