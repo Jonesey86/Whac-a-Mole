@@ -8,19 +8,19 @@ Video Game Whack A Mole 🎮
 
 Features 📚
 
-\*One-player gameplay
+\* One-player gameplay
 
-\*Dynamic game grid A 3x3 button-based grid for gameplay.
+\* Dynamic game grid A 3x3 button-based grid for gameplay.
 
-\*Start and Reset functionality allows the game to start fresh and reset at any time.
+\* Start and Reset functionality allows the game to start fresh and reset at any time.
 
-\*Win detection Detects when a player wins or loses the game.
+\* Win detection Detects when a player wins or loses the game.
 
-\*Player loses while missing mole and hitting piranha plant.
+\* Player loses while missing mole and hitting piranha plant.
 
 📚 Tech used 📚
 
-Language C# JavaScript, HTML, CSS
+Language C#, JavaScript, HTML, CSS
 
 How to run the game 🎮
 
