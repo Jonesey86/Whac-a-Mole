@@ -17,8 +17,8 @@ function setGame() {
     tile.addEventListener("click", selectTile);
     document.getElementById("board").appendChild(tile);
   }
-  setInterval(setMole, 1500); // 1500 milliseconds = , Mole appears every 1 and a half seconds call setMole
-  setInterval(setPlant, 1500); // 1500 milliseconds = Plant appears every 1 and a half seconds call setPlant
+  setInterval(setMole, 1500); // 1500 milliseconds = , Mole appears and will change position every 1 and a half seconds call setMole
+  setInterval(setPlant, 1500); // 1500 milliseconds = Plant appears and will change position every 1 and a half seconds call setPlant
 }
 
 function getRandomTile() {
